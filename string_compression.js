@@ -1,4 +1,4 @@
-let str = "aaabbcccdss";
+let str = "aaabbcccds";
 let count = 0;
 let holder = [];
 
